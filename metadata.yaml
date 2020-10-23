@@ -1,5 +1,5 @@
 _repo: Ludwig-Bechsteins-Marchenbuch-Mit-176-Holzschnitten-nach-Originalzeichnungen-von-Ludwig-Richt__63465
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Richter, Ludwig
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://de.wikipedia.org/wiki/Ludwig_Richter
     - https://en.wikipedia.org/wiki/Adrian_Ludwig_Richter
+covers:
+- cover_type: archival
+  image_path: 63465-h/images/cover.jpg
 creator:
   author:
     agent_name: Bechstein, Ludwig
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26033
     wikipedia: http://de.wikipedia.org/wiki/Ludwig_Bechstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63465#Ludwig-Bechsteins-Marchenbuch-Mit-176-Holzschnitten-nach-Originalzeichnungen-von-Ludwig-Richt_
 gutenberg_issued: '2020-10-15'
 gutenberg_type: Text
 identifiers:
